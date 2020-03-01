@@ -1,0 +1,4 @@
+.controlSection {
+  display: flex;
+  flex-direction: column;
+}
